@@ -1,0 +1,1 @@
+This Text Editor application, developed using visual studio and c++, provides a user-friendly interface for writing and editing text. It incorporates intelligent autocorrection features to enhance the writing experience.
