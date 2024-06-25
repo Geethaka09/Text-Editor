@@ -1,0 +1,8 @@
+F:\Notepad\Notepad\NotePad\x64\Debug\NotePad.vcxproj.AssemblyReference.cache
+F:\Notepad\Notepad\NotePad\x64\Debug\NotePad.MyForm.resources
+F:\Notepad\Notepad\NotePad\x64\Debug\NotePad.vcxproj.GenerateResource.cache
+F:\Notepad\Notepad\NotePad\x64\Debug\NotePad.exe
+F:\Notepad\NotePad-5182\NotePad\x64\Debug\NotePad.vcxproj.AssemblyReference.cache
+F:\Notepad\NotePad-5182\NotePad\x64\Debug\NotePad.MyForm.resources
+F:\Notepad\NotePad-5182\NotePad\x64\Debug\NotePad.vcxproj.GenerateResource.cache
+F:\Notepad\NotePad-5182\NotePad\x64\Debug\NotePad.exe
